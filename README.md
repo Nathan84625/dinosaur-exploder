@@ -6,6 +6,11 @@
   - Vous pouvez installer java [Open JDK 21](https://jdk.java.net/archive/). Il faut que la version soit 21 ou supérieur.
   - La variable d'environement `JAVA_HOME` doit être définis.
 - Git
+- Maven
+  - Vous pouvez installer Maven sur [Le site officiel de maven](https://jdk.java.net/archive/](https://maven.apache.org/download.cgi)). Utiliser Apache Maven 3.9.12
+  - Alternativement, si vous avez chocolatey vous pouvez rouler commande ```choco install maven``` dans une invite de commande
+  - Configurer la vriable d'environement MAVEN_HOME pour qu'elle pointe vers le dossier bin de maven
+
 
 #### Installation
 ```bash
@@ -19,7 +24,7 @@ mvn clean install
 mvn javafx:run
 
 # Ou utiliser un IDE: 
-# - Ouvrir le projet dans IntelliJ
+# - Ouvrir le projet dans L'IDE
 # - Rouler com.dinosaur.dinosaurexploder.DinosaurApp
 ```
 
