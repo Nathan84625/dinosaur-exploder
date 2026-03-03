@@ -8,11 +8,10 @@ Merci de vérifier d’abord toutes les issues ouvertes afin de t’assurer que 
 ### Pull requests
 
 Si vous voulez développez une solution pour un problème, faite une pull request.
-If you decide to develop a solution for an issue, you can submit these changes through a pull request.
 
 #### Format des titre de Pull Request 
 
- Les titres de PR doivent avoir le format suivant: `Description (#problème)`.
+Les titres de PR doivent avoir le format suivant: `Description (#problème)`.
 
 Après avoir soumis une pull request, un membre de la communauté la révisera rapidement et proposera des modifications si nécessaire.
 Ta solution sera ensuite fusionnée dans la branche principale et la pull request sera fermée.
