@@ -10,7 +10,7 @@
   - Vous pouvez installer Maven sur [Le site officiel de maven](https://jdk.java.net/archive/](https://maven.apache.org/download.cgi)). Utiliser Apache Maven 3.9.12
   - Alternativement, si vous avez chocolatey vous pouvez rouler commande ```choco install maven``` dans une invite de commande
   - Configurer la vriable d'environement MAVEN_HOME pour qu'elle pointe vers le dossier bin de maven
-
+- Un IDE si vous voulez en utiliser un.
 
 #### Installation
 ```bash
