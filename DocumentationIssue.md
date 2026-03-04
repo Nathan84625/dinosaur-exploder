@@ -11,4 +11,4 @@ Pour ajouter de la difficulté au jeu, j’ai intégré des astéroïdes qui des
 
 ## 3. Ajouter un nouveau bonus au jeu [Voir l'issue](https://github.com/jvondermarck/dinosaur-exploder/issues/263)
 
-Cette issue n'est pas terminé, mais elle consite à ajouter un pouvoir qui est lâcher rarement par un enemie. Ce pouvoir est un petit vaisseau allier qui va combattre au côter du joueur pendant une durée limité.
+Cette issue n’est pas terminée, mais elle consiste à ajouter un pouvoir qui est rarement lâché par un ennemi. Ce pouvoir invoque un petit vaisseau allié qui combattra aux côtés du joueur pendant une durée limitée.Actuellement, le pouvoir peut être lâché par les ennemis et récupéré par le joueur. Une fois récupéré, aucun autre allié ne peut être lâché par les ennemis.Le vaisseau allié suit déjà le joueur lorsqu’il se déplace, mais il ne peut pas encore tirer ni être touché par les tirs ennemis.
