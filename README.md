@@ -24,8 +24,12 @@ mvn clean install
 mvn javafx:run
 
 # Ou utiliser un IDE: 
-# - Ouvrir le projet dans L'IDE
-# - Rouler com.dinosaur.dinosaurexploder.DinosaurApp
+ - Ouvrir le projet dans L'IDE
+ - Rouler com.dinosaur.dinosaurexploder.DinosaurApp
+
+# Pour rouler les tests dans un IDE
+- Ouvrir le projet dans L'IDE
+- Rouler com.dinosaur.dinosaurexploder.DinosaurApp dans le dossier test
 ```
 
 ### Contribuer
